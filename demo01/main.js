@@ -1,4 +1,4 @@
-const http = require("http");
+const http = require("http"); // Testiopiskelija on niukka kommenteissaan
 const url = require("url");
 
 const portti = 3001;
